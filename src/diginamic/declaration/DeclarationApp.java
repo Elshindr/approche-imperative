@@ -1,7 +1,11 @@
 package diginamic.declaration;
 
 public class DeclarationApp {
-
+	/**
+	 * TP3 - Declarations de variables
+	 * @author Elshindr
+	 *
+	 */
 	public static void main(String[] args) {
 		
 		byte aByte = 125;
