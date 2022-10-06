@@ -16,7 +16,7 @@ public class ExerciceTableauChaines {
 		
 		System.out.println("Longueur de arrVilles" + arrVilles.length);
 		
-		arrVilles[3] = "Brest";
+		arrVilles[2] = "Brest";
 		
 		for (String uneVille : arrVilles) {
 			System.out.println(uneVille);
