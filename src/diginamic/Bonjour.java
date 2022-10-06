@@ -15,9 +15,9 @@ public class Bonjour {
 			double d = 8.0;
 			// hierarchie des types doubles >float>int> short> byte
 			
-			int ert = 053;
+			int ert = 053;// retourne 43 = notation octal(base8) et non 53 en base 10
 			System.out.println(ert);
-			
+			System.out.println(ert);
 
 	}
 
